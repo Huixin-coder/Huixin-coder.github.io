@@ -1,9 +1,9 @@
 ---
 title: "The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty"
 collection: publications
-permalink: /publication/2019-03-Huixin-YinYang-Tomb-Murals/
+permalink: /publication/2019-03-01-Huixin-YinYang-Tomb-Murals/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-03
+date: 2019-03-01
 venue: 'Journal 1'
 paperurl: 'http://Huixin-coder.github.io/files/Huixin-YinYang-Tomb-Murals.pdf'
 citation: 'Huixin Liu, H.Liu (2019). &quot;The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty.&quot; <i>Westleather</i>. (41).'
