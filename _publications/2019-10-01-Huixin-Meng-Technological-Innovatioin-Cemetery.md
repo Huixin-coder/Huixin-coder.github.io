@@ -2,7 +2,7 @@
 title: "The Path of Technological Innovation in Cemetery Design"
 collection: publications
 permalink: /publication/2019-10-01-Huixin-Meng-Technological-Innovatioin-Cemetery/
-excerpt: 'Due to its unique historical background and humanistic environment, the tomb murals in the Han Dynasty are completely different in color from other eras. This paper constructs a special color concept, namely the color concept of Yin and Yang, through the color application analysis of the tomb murals in the Han Dynasty and its historical and cultural background. '
+excerpt: 'The cemetery crisis is that of man-earth relationship. Beside relying on the resource allocation and the institutional reform, the dynamic role of technology should also be taken into account. Technological innovation can break through the restrictions of land resource on the cemetery development, avoid cultural conflicts, reduce the social costs, and be more sustainable.'
 date: 2019-10-01
 venue: 'Urbanism and Architecture'
 paperurl: 'http://Huixin-coder.github.io/files/Huixin-Meng-Technological-Innovatioin-Cemetery.pdf'
@@ -11,4 +11,4 @@ citation: 'T.Meng, H.Liu (2019). &quot;The Path of Technological Innovation in C
 
 <a href='http://Huixin-coder.github.io/files/Huixin-Meng-Technological-Innovatioin-Cemetery.pdf'>Download PDF here</a>
 
-Abstract: As the urban rail transit developed rapidly, the inner space of underground railway station has been widely used as a public space. How to effectively use the space has been a general problem focused by the people. Minimum Cumulative Resistance Model (MCR) has been commonly used in large scale spatial analysis, such as ecological suitability analysis, and land-use evaluation for urban construction. New space resistance factors and evaluation system need to be determined while applying MCR to the interior space of the railway station. The use of MCR in small urban public spaces provides a new perspective and a reliable method for solving spatial problems.
+Abstract: The cemetery crisis is that of man-earth relationship. Beside relying on the resource allocation and the institutional reform, the dynamic role of technology should also be taken into account. Technological innovation can break through the restrictions of land resource on the cemetery development, avoid cultural conflicts, reduce the social costs, and be more sustainable. In the long run, by making use of the driving force of technological innovation to enhance the endowments of land resources, innovate the burial technology, and use the lands intensively, this paper explores the land resource connotatively, which is the most practical path to solve the contradictions in man-earth relationship in cemetery planning and design.
