@@ -1,5 +1,5 @@
 ---
-title: "The Path of Technological Innovation in Cemetery Design"
+title: "The Resistance Factors and the Evaluation System in the Interior Spaces of Railway Station"
 collection: publications
 permalink: /publication/2019-10-01-Huixin-Meng-Underground-MCR/
 excerpt: 'As the urban rail transit developed rapidly, the inner space of underground railway station has been widely used as a public space. How to effectively use the space has been a general problem focused by the people. Minimum Cumulative Resistance Model (MCR) has been commonly used in large scale spatial analysis, such as ecological suitability analysis, and land-use evaluation for urban construction. '
