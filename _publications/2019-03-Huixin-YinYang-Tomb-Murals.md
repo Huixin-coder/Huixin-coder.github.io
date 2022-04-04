@@ -1,7 +1,7 @@
 ---
 title: "The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty"
 collection: publications
-permalink: /publication/2019-03-Huixin-YinYang-Tomb-Murals
+permalink: /publication/2019-03-Huixin-YinYang-Tomb-Murals/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-03
 venue: 'Journal 1'
