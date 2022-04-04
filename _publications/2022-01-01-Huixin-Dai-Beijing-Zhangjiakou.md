@@ -1,0 +1,14 @@
+---
+title: "Distribution Characteristics and Regeneration Strategy Research of Commercial Property of Abandoned Railway Based on Network Data"
+collection: publications
+permalink: /publication/2022-01-01-Huixin-Dai-Beijing-Zhangjiakou/
+excerpt: 'The regeneration of abandoned railways and urban spaces along the lines has become one of the important issues discussed in urban renewal. As the first railway built by the Chinese, the status and cultural value of the Beijing-Zhangjiakou Railway in the history of Chinese railways are self-evident. In recent years, the issue of the regeneration of the abandoned Beijing section of the Beijing-Zhangjiakou Railway has also aroused extensive discussion among the municipal government, academia and the public.'
+date: 2022-01-01
+venue: 'Urbanism and Architecture'
+paperurl: 'Currently unavaliable'
+citation: 'H.Liu, T.Meng (2019). &quot;Distribution Characteristics and Regeneration Strategy Research of Commercial Property of Abandoned Railway Based on Network Data.&quot; Urbanism and Architecture. (29).'
+---
+
+Abstract: The regeneration of abandoned railways and urban spaces along the lines has become one of the important issues discussed in urban renewal. As the first railway built by the Chinese, the status and cultural value of the Beijing-Zhangjiakou Railway in the history of Chinese railways are self-evident. In recent years, the issue of the regeneration of the abandoned Beijing section of the Beijing-Zhangjiakou Railway has also aroused extensive discussion among the municipal government, academia and the public.
+This paper takes the Beijing abandoned section of the Beijing-Zhangjiakou railway with a length of 4km as an example. In order to explore the composition, spatial scale and spatial distribution characteristics of commercial businesses within a buffer zone of 2km along the line, a total of 873 merchants in the 16-square-kilometer urban space along the railway are collected. There are nearly 20,000 pieces of LBS data such as merchant types, ratings, number of reviews, and per capita consumption.
+The study found that from the perspective of consumer groups, the current major consumer groups along the route are college students, residents and office workers. From the perspective of spatial distribution, the areas with high commercial vitality are mainly large-scale commercial complexes adjacent to the main roads of the city, the commerce along the streets on both sides of the urban branch roads, and the characteristic commerce inside the streets. Finally, for the regeneration of the Beijing-Zhangjiakou section of the Beijing-Zhangjiakou Railway, this research proposes specific renewal strategies for developing key businesses based on the characteristics of consumer groups, combining railway culture to develop characteristic creative industries, and relying on large-scale complexes to appropriately develop small-scale commercial streets.
