@@ -6,7 +6,7 @@ excerpt: 'Due to its unique historical background and humanistic environment, th
 date: 2019-03-01
 venue: 'Westleather'
 paperurl: 'http://Huixin-coder.github.io/files/Huixin-YinYang-Tomb-Murals.pdf'
-citation: 'Huixin Liu, H.Liu (2019). &quot;The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty.&quot; Westleather. (41). http://Huixin-coder.github.io/files/Huixin-YinYang-Tomb-Murals.pdf'
+citation: 'Huixin Liu, H.Liu (2019). &quot;The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty.&quot; Westleather. (41).'
 ---
 
 <a href='http://Huixin-coder.github.io/files/Huixin-YinYang-Tomb-Murals.pdf'>Download PDF here</a>
