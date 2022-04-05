@@ -1,12 +1,12 @@
 ---
 title: "Distribution Characteristics and Regeneration Strategy Research of Commercial Property of Abandoned Railway Based on Network Data"
 collection: publications
-permalink: /publication/2022-01-01-Huixin-Dai-Beijing-Zhangjiakou/
+permalink: /publication/2022-01-02-Huixin-Dai-Beijing-Zhangjiakou/
 excerpt: 'The regeneration of abandoned railways and urban spaces along the lines has become one of the important issues discussed in urban renewal. As the first railway built by the Chinese, the status and cultural value of the Beijing-Zhangjiakou Railway in the history of Chinese railways are self-evident. In recent years, the issue of the regeneration of the abandoned Beijing section of the Beijing-Zhangjiakou Railway has also aroused extensive discussion among the municipal government, academia and the public.'
-date: 2022-01-01
+date: 2022-01-02
 venue: 'Urbanism and Architecture'
 paperurl: 'Currently unavaliable'
-citation: 'H.Liu, T.Meng (2019). &quot;Distribution Characteristics and Regeneration Strategy Research of Commercial Property of Abandoned Railway Based on Network Data.&quot; Urbanism and Architecture. (29).'
+citation: 'S. Dai, H. Liu (2022). &quot;Distribution Characteristics and Regeneration Strategy Research of Commercial Property of Abandoned Railway Based on Network Data.'
 ---
 
 Abstract: The regeneration of abandoned railways and urban spaces along the lines has become one of the important issues discussed in urban renewal. As the first railway built by the Chinese, the status and cultural value of the Beijing-Zhangjiakou Railway in the history of Chinese railways are self-evident. In recent years, the issue of the regeneration of the abandoned Beijing section of the Beijing-Zhangjiakou Railway has also aroused extensive discussion among the municipal government, academia and the public.
