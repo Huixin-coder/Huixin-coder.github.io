@@ -2,7 +2,7 @@
 title: "The Concept of Yin and Yang Color in the Tomb Murals of Han Dynasty"
 collection: publications
 permalink: /publication/2019-03-01-Huixin-YinYang-Tomb-Murals/
-excerpt: 'Due to its unique historical background and humanistic environment, the tomb murals in the Han Dynasty are completely different in color from other eras. This paper constructs a special color concept, namely the color concept of Yin and Yang, through the color application analysis of the tomb murals in the Han Dynasty and its historical and cultural background. '
+excerpt: 'Due to its unique historical background and humanistic environment, the tomb murals in the Han Dynasty are completely different in color from other eras. This paper constructs a special color concept, namely the color concept of Yin and Yang, through the color application analysis of the tomb murals in the Han Dynasty and its historical and cultural background. <!--more-->'
 date: 2019-03-01
 venue: 'Westleather'
 paperurl: 'http://Huixin-coder.github.io/files/Huixin-YinYang-Tomb-Murals.pdf'
