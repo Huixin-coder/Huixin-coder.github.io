@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: "Modelling the Ebola Virus Epidemic Based on Agent-based Model"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
