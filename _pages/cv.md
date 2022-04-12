@@ -61,8 +61,9 @@ Publications
 Attendance at specialist workshops or short courses
 ======
 * Competition of Solar Decathlon China, Sep 2017 - Aug 2018 
-* Workshop of Solar Decathlon China, 19th -22nd August 2018
+* Workshop of Solar Decathlon China, 19th - 22nd August 2018
 * UCL-British Red Cross Mapathon, 28th Jan 2020
-* CUSP London Data Dive - Future Mobility in Cities, 15th -19th March 2021
-* Mid-Month Mapathon (Missing Maps project/Humanitarian OpenStreetMap Team), regularly event attendence since       March 2022
+* CUSP London Data Dive - Future Mobility in Cities, 15th - 19th March 2021
+* Mid-Month Mapathon (Missing Maps project/Humanitarian OpenStreetMap Team), regularly event attendence since March 2022
+* The Alan Turing Institude training course: Public Engagement with Data Science and AI training opportunity, 25th - 29th April 2022
 
